@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="amg_bg">#0B0B0E</color>
+    <color name="amg_card">#14141A</color>
+    <color name="amg_line">#262630</color>
+    <color name="amg_text">#F2F3F5</color>
+    <color name="amg_muted">#8E93A0</color>
+    <color name="amg_ok">#3DDC97</color>
+    <color name="amg_bad">#FF5D6C</color>
+    <color name="amg_warn">#FFC35C</color>
+    <color name="amg_white">#FFFFFF</color>
+</resources>

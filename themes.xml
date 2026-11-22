@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AMSms" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:windowBackground">@color/amg_bg</item>
+        <item name="android:statusBarColor">@color/amg_bg</item>
+        <item name="android:navigationBarColor">@color/amg_bg</item>
+        <item name="colorPrimary">@color/amg_white</item>
+    </style>
+</resources>
